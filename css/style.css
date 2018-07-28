@@ -1,0 +1,9 @@
+.jumbotron {
+    background: repeating-radial-gradient(
+    circle,
+        #feef0d,
+        #fad51d 30px,
+        #f7c328 30px,
+        #f2e486 60px
+    );
+}
